@@ -1,0 +1,14 @@
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\bin\Debug\net6.0\SearchTerms.exe
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\bin\Debug\net6.0\SearchTerms.deps.json
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\bin\Debug\net6.0\SearchTerms.runtimeconfig.json
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\bin\Debug\net6.0\SearchTerms.dll
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\bin\Debug\net6.0\SearchTerms.pdb
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\obj\Debug\net6.0\SearchTerms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\obj\Debug\net6.0\SearchTerms.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\obj\Debug\net6.0\SearchTerms.AssemblyInfo.cs
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\obj\Debug\net6.0\SearchTerms.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\obj\Debug\net6.0\SearchTerms.dll
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\obj\Debug\net6.0\refint\SearchTerms.dll
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\obj\Debug\net6.0\SearchTerms.pdb
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\obj\Debug\net6.0\SearchTerms.genruntimeconfig.cache
+C:\Users\chris\source\repos\SearchTerms\SearchTerms\obj\Debug\net6.0\ref\SearchTerms.dll
